@@ -1,0 +1,3 @@
+MCP (Model Context Protocol) lets AI models talk to external tools and data sources.
+Genkit is Google's open-source AI framework for Node.js and Go.
+Together they make it easy to build AI agents that can read/write files, query databases, and more.

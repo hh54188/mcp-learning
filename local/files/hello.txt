@@ -1,0 +1,2 @@
+Hello from the MCP filesystem demo!
+This file was read by an AI agent using the filesystem MCP server.
