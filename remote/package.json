@@ -1,0 +1,21 @@
+{
+  "name": "remote",
+  "version": "1.0.0",
+  "description": "Remote MCP demo using GitHub MCP server with Genkit",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "@genkit-ai/google-genai": "^1.33.0",
+    "@genkit-ai/mcp": "^1.33.0",
+    "dotenv": "^17.4.2",
+    "genkit": "^1.33.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.0.0"
+  }
+}
